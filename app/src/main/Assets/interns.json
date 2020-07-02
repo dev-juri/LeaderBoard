@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Oluwafemi Ojuri",
+    "track": "Mobile",
+    "point": "10",
+    "slackUsername": "@devJuri"
+  },
+  {
+    "name": "Jay Jay",
+    "track": "Mobile",
+    "point": "8",
+    "slackUsername": "@jay"
+  },
+  {
+    "name": "Kay Kay",
+    "track": "Front End",
+    "point": "5",
+    "slackUsername": "@kayk"
+  },
+  {
+    "name": "Zee Zee",
+    "track": "Backend",
+    "point": "1",
+    "slackUsername": "@zeeZ"
+  },
+  {
+    "name": "Tee Tee",
+    "track": "Mobile",
+    "point": "1",
+    "slackUsername": "@teeT"
+  },
+  {
+    "name": "Molly Dan",
+    "track": "UI/UX",
+    "point": "1",
+    "slackUsername": "@danMolly"
+  }
+]
